@@ -1,6 +1,6 @@
 # Hi there ✋ I'm Yuriy
 
-- :ukraine: I live in Lutsk, ukraine
+- :ukraine: I live in Lutsk, Ukraine
 - I am an web developer at Creative Propulsion Labs
 - Most of the time I'm writing code on PHP and JavaScript. I am a big fan of Golang and use it every time when I need to do something extremely fast and stressless. 
 - 📫 You can easily shoot me an email at yuriyrybchynski.dev@gmail.com
